@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: checking in 
+subtitle: '...'
 
 profile:
   align: right
@@ -24,7 +24,7 @@ Outside of work you can find me:
 - singing with my [acapella group](https://www.youtube.com/@PennMasalaOfficial)
 - making music with some of my friends
 - listening to podcasts ([1](https://conversationswithtyler.com/),[2](https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu?si=289fff304ec94193),[3](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=70707fa34a434758))
-- or talking about [movies](https://en.wikipedia.org/wiki/Whiplash_(2014_film))/shows with my friends
+- or talking about [movies and shows](https://en.wikipedia.org/wiki/Whiplash_(2014_film)) with my friends
 
 Thanks so much for stopping by and feel free to reach out to me at padurty@wharton.upenn.edu about anything! :v:
 
