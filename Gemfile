@@ -1,13 +1,4 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-
-group :other_plugins do
-    gem 'feedjira'
-    gem 'httparty'
-end
-
-=begin
-source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -29,7 +20,6 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
-    gem 'github-pages-health-check'
+    gem 'feedjira'
     gem 'httparty'
 end
-=end
