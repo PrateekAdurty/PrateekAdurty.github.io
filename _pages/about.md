@@ -26,7 +26,7 @@ Outside of work you can find me:
 - listening to podcasts ([1](https://conversationswithtyler.com/),[2](https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu?si=289fff304ec94193),[3](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=70707fa34a434758))
 - or talking about [movies and shows](https://en.wikipedia.org/wiki/Whiplash_(2014_film)) with my friends
 
-Thanks so much for stopping by and feel free to reach out to me at padurty@wharton.upenn.edu about anything! :v:
+Thanks for stopping by and feel free to [reach out](mailto:padurty@wharton.upenn.edu) to me about anything! 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`.
 
