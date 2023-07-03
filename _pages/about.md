@@ -23,7 +23,7 @@ My research interests are in computational epigenetics, AI applied to the drug d
 Outside of work you can find me:
 - singing with my [acapella group](https://www.youtube.com/@PennMasalaOfficial)
 - making music with some of my friends
-- listening to podcasts ([1](https://conversationswithtyler.com/),[2](https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu?si=289fff304ec94193),[3](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=70707fa34a434758))
+- listening to podcasts ([1](https://conversationswithtyler.com/),[2](https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu?si=289fff304ec94193))
 - or talking about [movies and shows](https://en.wikipedia.org/wiki/Whiplash_(2014_film)) with my friends
 
 Thanks for stopping by and feel free to [reach out](mailto:padurty@wharton.upenn.edu) to me about anything! 
