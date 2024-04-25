@@ -14,7 +14,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Heyooooo! My name is Prateek and I'm a junior at the University of Pennsylvania in the [Vagelos LSM Program](https://lsm.upenn.edu/). I'm currently very interested in problems at the intersection of computer science and biotech.
+Heyo! My name is Prateek and I'm a junior at the University of Pennsylvania in the [Vagelos LSM Program](https://lsm.upenn.edu/). I'm currently very interested in problems at the intersection of computer science and biotech.
 
 Over the past couple of years I've done research at [Harmonic Discovery](https://www.harmonicdiscovery.com/) and at the [Zhou Lab](https://zhou-lab.github.io/) @ The Children's Hospital of Philadelphia.
 
