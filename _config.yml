@@ -127,8 +127,8 @@ blog_description: Some thoughts on finance, biotech, music, politics and other r
 #permalink: #/blog/:year/:title/
 
 # Pagination
-#pagination:
-  #enabled: false
+pagination:
+  enabled: true
 
 #related_blog_posts:
   #enabled: false

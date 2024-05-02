@@ -1,21 +1,32 @@
 ---
-layout: default
-permalink: /tekio/
-title: tekio
-nav: false
-nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+layout: page 
+permalink: /thoughts/
+title: thoughts
+nav: true
 ---
 
+[Here's](https://tekio.substack.com/) my substack where you can find some of my thoughts on a bunch of things (science, movies, politics, music, finance)
+
+Posts are coming soon!
+
+<ul class="post-list">
+  {% if page.pagination.enabled %}
+    {% assign postlist = paginator.posts %}
+  {% else %}
+    {% assign postlist = site.posts %}
+  {% endif %}
+
+  {% for post in postlist %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% if page.pagination.enabled %}
+  {% include pagination.liquid %}
+{% endif %}
+
+
+<!--
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -28,6 +39,9 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+
+
+
 
 {% if site.display_tags or site.display_categories %}
 
@@ -58,7 +72,10 @@ pagination:
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
+
 <br>
+
+
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
@@ -101,6 +118,9 @@ pagination:
 
 {% endif %}
 
+
+
+
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
@@ -123,6 +143,8 @@ pagination:
     <li>
 
 {% if post.thumbnail %}
+
+
 
 <div class="row">
           <div class="col-sm-9">
@@ -188,3 +210,5 @@ pagination:
 {% endif %}
 
 </div>
+
+-->
