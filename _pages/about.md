@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Heyo! My name is Prateek and I'm a junior at the University of Pennsylvania in the [Vagelos LSM Program](https://lsm.upenn.edu/). I'm currently very interested in biotech, finance, and computer science. 
 
-Over the past couple of years I've done research at [Harmonic Discovery](https://www.harmonicdiscovery.com/) and at the [Zhou Lab](https://zhou-lab.github.io/) @ The Children's Hospital of Philadelphia.
+Over the past couple of years I've done research at [Harmonic Discovery](https://www.harmonicdiscovery.com/) and at the [Radhakrishnan Lab](https://fling.seas.upenn.edu/~biophys/dynamic/wordpress/).
 
 My research interests are in computational epigenetics, AI applied to the drug discovery process, and translational medicine.
 
@@ -23,7 +23,7 @@ Outside of work you can find me:
 - singing with my [acapella group](https://www.youtube.com/@PennMasalaOfficial)
 - making [music](https://www.instagram.com/tekopa_/) with some of my friends
 - listening to podcasts ([1](https://conversationswithtyler.com/),[2](https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu?si=289fff304ec94193))
-- or talking about [movies and shows](https://en.wikipedia.org/wiki/Whiplash_(2014_film)) with my friends
+- or talking about [movies](https://en.wikipedia.org/wiki/Whiplash_(2014_film)) and [shows](https://en.wikipedia.org/wiki/Dark_(TV_series)) with my friends
 
 Thanks for stopping by and feel free to [reach out](mailto:padurty@wharton.upenn.edu) to me about anything! 
 
